@@ -118,8 +118,10 @@ Through this project, I improved understanding of:
 ---
 
 ## Screenshots
+<img width="1710" height="1107" alt="Screenshot 2026-05-02 at 5 00 34 PM" src="https://github.com/user-attachments/assets/90a66118-e64f-4b23-916c-b7970758c0ae" />
 
-(Add screenshots here)
+<img width="1710" height="1107" alt="Screenshot 2026-05-02 at 5 00 40 PM" src="https://github.com/user-attachments/assets/65de7466-8543-4cd4-b2d3-29a5a62a388b" />
+
 
 ---
 
